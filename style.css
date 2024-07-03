@@ -1,0 +1,37 @@
+.orange{
+    color: orange;
+}
+
+h1{
+    font-size: 40px;
+}
+
+p{
+    color: dimgray;
+}
+body{
+    margin: 0;
+}
+
+section{
+    height: 500px;
+   
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
+
+.half-width img{
+    width: 100%;
+}
+
+.top-area{
+    background-image: url(Image/top-banner.png);
+    background-repeat: no-repeat;
+
+}
